@@ -1,4 +1,7 @@
 # drawpicture
+
+```mermaid
+# drawpicture
 flowchart TB
   %% =========================
   %% 输入与路径
@@ -104,3 +107,5 @@ flowchart TB
     Y1a --> Z
     Y4b --> Z
   end
+
+markdown
